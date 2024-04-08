@@ -1,3 +1,5 @@
+# Based on http://neuralnetworksanddeeplearning.com/chap1.html
+
 from mnist_loader import *
 from network import *
 
