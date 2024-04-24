@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.31)  17 APR 2024 08:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.31)  17 APR 2024 19:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -823,9 +823,9 @@ LaTeX Font Info:    Font shape `OT1/pbk/b/sc' in size <14.4> not available
 LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <7> not available
 (Font)              Font shape `OT1/pbk/l/n' tried instead on input line 82.
 LaTeX Font Info:    Font shape `OT1/pbk/m/it' in size <10> not available
-(Font)              Font shape `OT1/pbk/l/it' tried instead on input line 142.
+(Font)              Font shape `OT1/pbk/l/it' tried instead on input line 149.
 LaTeX Font Info:    Font shape `OT1/pbk/b/it' in size <10> not available
-(Font)              Font shape `OT1/pbk/db/it' tried instead on input line 151.
+(Font)              Font shape `OT1/pbk/db/it' tried instead on input line 158.
 
  [1
 
@@ -837,7 +837,7 @@ Package rerunfilecheck Info: File `nn.out' has not changed.
 Here is how much of TeX's memory you used:
  21650 strings out of 476025
  404873 string characters out of 5790017
- 1869388 words of memory out of 5000000
+ 1871388 words of memory out of 5000000
  41728 multiletter control sequences out of 15000+600000
  523299 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -853,7 +853,7 @@ l/texlive/2023/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/local/texliv
 e/2023/texmf-dist/fonts/type1/urw/bookman/ubkdi8a.pfb></usr/local/texlive/2023/
 texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/local/texlive/2023/texmf-di
 st/fonts/type1/urw/bookman/ubkli8a.pfb>
-Output written on nn.pdf (1 page, 108784 bytes).
+Output written on nn.pdf (1 page, 110331 bytes).
 PDF statistics:
  73 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream

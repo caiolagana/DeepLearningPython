@@ -82,6 +82,15 @@ Rua Cristiano Vianna 104, ap 21\\
 Definition. Let $w^l_{jk}$ be a collection of $l$ matrices whose indexes $jk$ are such that the number of columns of the $l$\textsuperscript{th} matrix equals the number of lines of the $(l+1)$\textsuperscript{th} matrix.`'
 
 
+Definition. The $l$\textsuperscript{th} activation vector, denoted $a^l$, is the (column) vector resulting from the application of the $l$\textsuperscript{th} weight matrix to the $a^{l-1}$ activation vector.
+\[
+  a^l_j = \sigma \left(\sum_k w^l_{jk}a^{l-1}_k+b^l_j\right)
+\]
+
+Definition. A {\bf layer} is the collection of neurons at a given index.
+
+Definition. A {\bf neuron} is 
+
 Example. the following set is a valid collection:
 \[
     \begin{pmatrix}
