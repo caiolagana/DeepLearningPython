@@ -29,3 +29,12 @@ train_ds = tf.keras.utils.text_dataset_from_directory(
 val_ds = tf.keras.utils.text_dataset_from_directory(
     'aclImdb/train', batch_size=batch_size, validation_split=0.2,
     subset='validation', seed=seed)
+
+"""
+The Embedding layer can be understood as a lookup table that maps from integer indices (which stand for specific words) to dense vectors (their embeddings). The dimensionality (or width) of the embedding is a parameter you can experiment with to see what works well for your problem, much in the same way you would experiment with the number of neurons in a Dense layer.
+"""
+
+# Embed a 1,000 word vocabulary into 5 dimensions.
+# https://chat.openai.com/share/b9d6a82e-bca1-425f-bd63-db9d7b80d94f
+embedding_layer = tf.keras.layers.Embedding(1000, 5)
+
